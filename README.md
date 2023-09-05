@@ -10,11 +10,11 @@ El frontend usa Javascript Material UI y nextjs. Usé axios para consumir los en
 
 ## Características
 
-Muestra la información de todos los personajes humanos de Rick and Morty
-Presenta paginación 
-Presenta un searchbar para buscar solo personajes humanos por nombre
-Presenta un filtro para buscar  personajes humanos en estado vivo, muerto o desconocido
-Muestra la cantidad de resultados
+- Muestra la información de todos los personajes humanos de Rick and Morty
+- Presenta paginación 
+- Presenta un searchbar para buscar solo personajes humanos por nombre
+- Presenta un filtro para buscar  personajes humanos en estado vivo, muerto o desconocido
+- Muestra la cantidad de resultados
 
 
 
