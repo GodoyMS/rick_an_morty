@@ -37,7 +37,7 @@ yarn run dev
 
 
 # Navigate to the server directory
-cd client
+cd frontend
 # Install dependencies
 npm install
 
