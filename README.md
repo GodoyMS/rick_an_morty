@@ -21,7 +21,7 @@ El frontend usa Javascript Material UI y nextjs. Usé axios para consumir los en
 
 ## Instalación 
 
-Provide instructions on how to install your app. Include any dependencies or prerequisites that users need to have installed.
+Instrucciones para correr la aplicación localmente
 
 ```bash
 # Clone the repository
