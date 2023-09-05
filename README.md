@@ -15,6 +15,7 @@ El frontend usa Javascript Material UI y nextjs. Usé axios para consumir los en
 - Presenta un searchbar para buscar solo personajes humanos por nombre
 - Presenta un filtro para buscar  personajes humanos en estado vivo, muerto o desconocido
 - Muestra la cantidad de resultados
+- Presenta una ruta dinámica para mostrar información individual de cada personaje
 
 
 
