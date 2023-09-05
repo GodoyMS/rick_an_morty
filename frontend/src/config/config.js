@@ -1,0 +1,1 @@
+export const BACKEND_BASE_PATH="http://localhost:5000/api/v1"
